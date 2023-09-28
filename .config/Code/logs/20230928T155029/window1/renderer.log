@@ -1,0 +1,4 @@
+2023-09-28 15:50:31.639 [error] Extension 'github.copilot-chat' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): interactive, interactiveUserActions, terminalContextMenu, terminalDataWriteEvent, terminalSelection, terminalQuickFixProvider, handleIssueUri, chatSlashCommands, readonlyMessage, chatVariables, mappedEditsProvider, aiRelatedInformation
+product.json (WINS): handleIssueUri, interactive, interactiveUserActions, terminalContextMenu, terminalDataWriteEvent, terminalSelection, terminalQuickFixProvider, chatSlashCommands, readonlyMessage, mappedEditsProvider, aiRelatedInformation
+2023-09-28 15:50:36.951 [info] [perf] Render performance baseline is 332ms

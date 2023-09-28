@@ -1,0 +1,13 @@
+2023-09-28 01:21:18.686 [error] Extension 'github.copilot-chat' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): interactive, interactiveUserActions, terminalContextMenu, terminalDataWriteEvent, terminalSelection, terminalQuickFixProvider, handleIssueUri, chatSlashCommands, readonlyMessage, chatVariables, mappedEditsProvider, aiRelatedInformation
+product.json (WINS): handleIssueUri, interactive, interactiveUserActions, terminalContextMenu, terminalDataWriteEvent, terminalSelection, terminalQuickFixProvider, chatSlashCommands, readonlyMessage, mappedEditsProvider, aiRelatedInformation
+2023-09-28 01:21:21.411 [info] [perf] Render performance baseline is 151ms
+2023-09-28 01:57:14.285 [error] Extension 'github.copilot-chat' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): interactive, interactiveUserActions, terminalContextMenu, terminalDataWriteEvent, terminalSelection, terminalQuickFixProvider, handleIssueUri, chatSlashCommands, readonlyMessage, chatVariables, mappedEditsProvider, aiRelatedInformation
+product.json (WINS): handleIssueUri, interactive, interactiveUserActions, terminalContextMenu, terminalDataWriteEvent, terminalSelection, terminalQuickFixProvider, chatSlashCommands, readonlyMessage, mappedEditsProvider, aiRelatedInformation
+2023-09-28 01:57:17.071 [info] [perf] Render performance baseline is 170ms
+2023-09-28 01:57:17.630 [error] Extension 'github.copilot-chat' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): interactive, interactiveUserActions, terminalContextMenu, terminalDataWriteEvent, terminalSelection, terminalQuickFixProvider, handleIssueUri, chatSlashCommands, readonlyMessage, chatVariables, mappedEditsProvider, aiRelatedInformation
+product.json (WINS): handleIssueUri, interactive, interactiveUserActions, terminalContextMenu, terminalDataWriteEvent, terminalSelection, terminalQuickFixProvider, chatSlashCommands, readonlyMessage, mappedEditsProvider, aiRelatedInformation
+2023-09-28 01:57:18.353 [error] No registered selector for ID: copilot-chat.fixWithCopilot: Error: No registered selector for ID: copilot-chat.fixWithCopilot
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1537:26506

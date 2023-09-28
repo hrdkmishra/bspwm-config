@@ -1,0 +1,32 @@
+{
+   "Save_as": {
+      "message": "Salvar como $FORMAT$",
+      "placeholders": {
+         "format": {
+            "content": "$1",
+            "example": "PNG"
+         }
+      }
+   },
+   "View_in_store": {
+      "message": "Ver na loja"
+   },
+   "errorIsNotImage": {
+      "message": "Não é uma imagem"
+   },
+   "errorOnLoading": {
+      "message": "Ocorreu um erro ao carregar imagem"
+   },
+   "errorOnSaving": {
+      "message": "Ocorreu um erro ao salvar imagem"
+   },
+   "extDescription": {
+      "message": "Salve imagem como PNG, JPG ou WebP por menu de contexto na imagem."
+   },
+   "extName": {
+      "message": "Salvar imagem como Tipo"
+   },
+   "extShortName": {
+      "message": "SalvarImagemComo"
+   }
+}

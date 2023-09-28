@@ -1,0 +1,6 @@
+2023/09/27-23:06:14.934 687 Creating DB /home/yex/.config/google-chrome/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb since it was missing.
+2023/09/27-23:06:14.936 687 Reusing MANIFEST /home/yex/.config/google-chrome/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/27-23:24:57.011 688 Level-0 table #5: started
+2023/09/27-23:24:57.013 688 Level-0 table #5: 6334 bytes OK
+2023/09/27-23:24:57.015 688 Delete type=0 #3
+2023/09/27-23:24:57.015 688 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

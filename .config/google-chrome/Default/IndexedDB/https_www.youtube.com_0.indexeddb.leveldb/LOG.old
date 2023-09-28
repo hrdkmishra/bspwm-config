@@ -1,0 +1,14 @@
+2023/09/28-15:28:30.639 2b04 Reusing MANIFEST /home/yex/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/28-15:28:30.639 2b04 Recovering log #38
+2023/09/28-15:28:30.646 2b04 Reusing old log /home/yex/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000038.log 
+2023/09/28-15:28:30.646 2b04 Delete type=2 #36
+2023/09/28-15:28:30.646 2b04 Delete type=2 #39
+2023/09/28-15:31:12.275 2b05 Level-0 table #43: started
+2023/09/28-15:31:12.311 2b05 Level-0 table #43: 1991267 bytes OK
+2023/09/28-15:31:12.315 2b05 Delete type=0 #38
+2023/09/28-15:31:13.528 2b08 Compacting 1@1 + 1@2 files
+2023/09/28-15:31:13.543 2b08 Generated table #44@1: 396 keys, 52364 bytes
+2023/09/28-15:31:13.543 2b08 Compacted 1@1 + 1@2 files => 52364 bytes
+2023/09/28-15:31:13.545 2b08 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/28-15:31:13.546 2b08 Delete type=2 #40
+2023/09/28-15:31:13.546 2b08 Delete type=2 #43

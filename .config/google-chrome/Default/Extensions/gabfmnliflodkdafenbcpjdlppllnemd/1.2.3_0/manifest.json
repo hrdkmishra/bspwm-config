@@ -1,0 +1,22 @@
+{
+   "background": {
+      "service_worker": "background.js"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "48": "icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq8HdJdKvVjiE+CzvaQW7OdfMtj4qdu7T1m2lNtZc8N2NVEBfjNDSZZ/hpAurcKu5Q9Gj8hwlLV4v9iQ15uiZleMXh8wOWQ70UNKPt4KJ2uhp/R1QZkuaCitV8PDMCvo/2RQcld++mp2FU5D/aHna15tRk/IQ7w+aE0iEggx/rXkS/Shn6+XfeZpoxQy0GO2VxPU3hzW1oj7GJy9Azxd14Gn0yz32B1Yhjzpt3jZ4bwQk4pPcBGBmQoQZeOYBa5OCVQ0Mgm60GBDtcNH6U3iw/ZBaFoeUtpNHTFpGxp3Kv+TFfLCTJWNfY9Y1/zA08GMuAPFpBK1LZMCdT6usEecdpwIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "88.0.0.0",
+   "name": "__MSG_extName__",
+   "optional_permissions": [  ],
+   "permissions": [ "downloads", "contextMenus", "offscreen", "activeTab", "scripting" ],
+   "short_name": "__MSG_extShortName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.3"
+}

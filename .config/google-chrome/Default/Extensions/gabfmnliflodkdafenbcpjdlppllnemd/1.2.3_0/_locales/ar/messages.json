@@ -1,0 +1,32 @@
+{
+   "Save_as": {
+      "message": "حفظ باسم $FORMAT$",
+      "placeholders": {
+         "format": {
+            "content": "$1",
+            "example": "PNG"
+         }
+      }
+   },
+   "View_in_store": {
+      "message": "عرض في المتجر"
+   },
+   "errorIsNotImage": {
+      "message": "إنها ليست صورة"
+   },
+   "errorOnLoading": {
+      "message": "حدث خطأ أثناء تحميل الصورة"
+   },
+   "errorOnSaving": {
+      "message": "حدث خطأ أثناء حفظ الصورة"
+   },
+   "extDescription": {
+      "message": "احفظ الصورة بتنسيق PNG أو JPG أو WebP من خلال قائمة السياق على الصورة."
+   },
+   "extName": {
+      "message": "احفظ الصورة بتنسيق JPG/PNG/WebP"
+   },
+   "extShortName": {
+      "message": "SaveImageAs"
+   }
+}

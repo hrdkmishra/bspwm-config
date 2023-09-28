@@ -1,0 +1,17 @@
+[INFO] [default] [2023-09-28T08:58:13.038Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-09-28T08:58:13.258Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-09-28T08:58:13.839Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 581 ms
+[INFO] [streamChoices] [2023-09-28T08:58:13.844Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-09-28T08:58:13.846Z] request done: headerRequestId: [72943628-1212-4ba3-a458-adc2eaf7113b] model deployment ID: [x8d972952f61]
+[INFO] [default] [2023-09-28T09:00:14.067Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-09-28T09:00:14.637Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-09-28T09:00:15.026Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 388 ms
+[INFO] [streamChoices] [2023-09-28T09:00:15.028Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-09-28T09:00:15.035Z] request done: headerRequestId: [69e0fdd3-8f14-4034-9007-44ca419659eb] model deployment ID: [x8d972952f61]
+[INFO] [default] [2023-09-28T09:00:24.416Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-09-28T09:00:24.890Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-09-28T09:00:25.231Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 341 ms
+[INFO] [streamChoices] [2023-09-28T09:00:25.232Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-09-28T09:00:25.234Z] request done: headerRequestId: [3b27b305-83a6-4c78-bac0-4fedda7e346d] model deployment ID: [x8d972952f61]
+[INFO] [default] [2023-09-28T09:00:27.893Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [ghostText] [2023-09-28T09:00:28.031Z] Found inline suggestions locally

@@ -1,0 +1,23 @@
+2023/09/28-15:28:28.067 3 Reusing MANIFEST /home/yex/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/09/28-15:28:28.069 3 Recovering log #146
+2023/09/28-15:28:28.069 3 Reusing old log /home/yex/.config/google-chrome/Default/Local Storage/leveldb/000146.log 
+2023/09/28-15:38:05.672 4 Level-0 table #150: started
+2023/09/28-15:38:05.675 4 Level-0 table #150: 51250 bytes OK
+2023/09/28-15:38:05.679 4 Delete type=0 #146
+2023/09/28-15:45:56.360 4 Level-0 table #152: started
+2023/09/28-15:45:56.369 4 Level-0 table #152: 47309 bytes OK
+2023/09/28-15:45:56.373 4 Delete type=0 #149
+2023/09/28-15:56:48.526 4 Level-0 table #154: started
+2023/09/28-15:56:48.534 4 Level-0 table #154: 37132 bytes OK
+2023/09/28-15:56:48.539 4 Delete type=0 #151
+2023/09/28-15:56:48.540 4 Compacting 4@0 + 2@1 files
+2023/09/28-15:56:48.582 4 Generated table #155@0: 630 keys, 2120726 bytes
+2023/09/28-15:56:48.585 4 Generated table #156@0: 38 keys, 4964 bytes
+2023/09/28-15:56:48.585 4 Compacted 4@0 + 2@1 files => 2125690 bytes
+2023/09/28-15:56:48.587 4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/09/28-15:56:48.589 4 Delete type=2 #143
+2023/09/28-15:56:48.589 4 Delete type=2 #144
+2023/09/28-15:56:48.589 4 Delete type=2 #147
+2023/09/28-15:56:48.589 4 Delete type=2 #150
+2023/09/28-15:56:48.589 4 Delete type=2 #152
+2023/09/28-15:56:48.589 4 Delete type=2 #154

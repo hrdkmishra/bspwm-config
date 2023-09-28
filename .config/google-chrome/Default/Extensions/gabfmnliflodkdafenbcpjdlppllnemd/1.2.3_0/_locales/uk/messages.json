@@ -1,0 +1,32 @@
+{
+   "Save_as": {
+      "message": "Зберегти як $FORMAT$",
+      "placeholders": {
+         "format": {
+            "content": "$1",
+            "example": "PNG"
+         }
+      }
+   },
+   "View_in_store": {
+      "message": "Переглянути в магазині"
+   },
+   "errorIsNotImage": {
+      "message": "Це не зображення"
+   },
+   "errorOnLoading": {
+      "message": "Під час завантаження зображення сталася помилка"
+   },
+   "errorOnSaving": {
+      "message": "Під час збереження зображення сталася помилка"
+   },
+   "extDescription": {
+      "message": "Збережіть зображення у форматі PNG, JPG або WebP за допомогою контекстного меню на зображенні."
+   },
+   "extName": {
+      "message": "Зберегти зображення як"
+   },
+   "extShortName": {
+      "message": "SaveImageAs"
+   }
+}
